@@ -1,13 +1,13 @@
 {
-    "DeckName": "Example",
+    "DeckName": "Lewd",
 
-    "DeckBy": "Lastation Community",
+    "DeckBy": "CherryKoboldToy",
 
     "Segments": [
-        "What is your favorite VRC game Map?",
-        "What is your opinion of <player>?",
-        "Do you know more than <range[1-5]> people here?",
-        "Tell <player> <range[1-10]> facts about youself.",
+        "Remove One Piece Of Clothing",
+        "Sit On <player>'s lap for 2 turns",
+        "Sit On The Person's Face Whose Turn Is Before You For <range[1-5]> Minutes",
+        "Make Out With <player> With <range[1-10]> Minutes",
         "<local>, who do you like here the most?",
         "Mute yourself until next turn.",
         "Sit next to <player>.",
